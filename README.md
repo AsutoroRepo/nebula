@@ -11,7 +11,7 @@
 [![CS2](https://img.shields.io/badge/game-CS2-F87171?style=flat-square&labelColor=0C0D16)](https://www.counter-strike.net/)
 [![License](https://img.shields.io/badge/license-Source%20Available-FBBF24?style=flat-square&labelColor=0C0D16)](LICENSE)
 
-[**Download**](https://github.com/yourusername/nebula-killsay/releases/latest) · [**Get Pro**](https://nebula.best) · [**Discord (WIP)**]() · [**Changelog**](CHANGELOG.md)
+[**Download**](https://github.com/yourusername/nebula-killsay/releases/latest) · [**Get Pro**]([https://nebula.best](https://nebula-killsay.lovable.app)) · [**Discord (WIP)**]() · [**Changelog**](CHANGELOG.md)
 
 ![screenshot](assets/screenshot.png)
 
@@ -46,7 +46,7 @@ Nebula Killsay hooks into CS2's **Game State Integration (GSI)** — Valve's off
 | Message pack import / export | ✗ | ✓ |
 | Match-end promotion message | shown | removed |
 
-> **[Get Pro →](https://nebula.best)** — one-time purchase, no subscription.
+> **[Get Pro →]([https://nebula.best](https://nebula-killsay.lovable.app))** — one-time purchase, no subscription.
 
 ---
 
