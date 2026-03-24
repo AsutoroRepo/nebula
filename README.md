@@ -11,7 +11,7 @@
 [![CS2](https://img.shields.io/badge/game-CS2-F87171?style=flat-square&labelColor=0C0D16)](https://www.counter-strike.net/)
 [![License](https://img.shields.io/badge/license-Source%20Available-FBBF24?style=flat-square&labelColor=0C0D16)](LICENSE)
 
-[**Download**](https://github.com/yourusername/nebula-killsay/releases/latest) · [**Get Pro**](https://nebula.gg) · [**Discord**](https://discord.gg/yourserver) · [**Changelog**](CHANGELOG.md)
+[**Download**](https://github.com/yourusername/nebula-killsay/releases/latest) · [**Get Pro**](https://nebula.best) · [**Discord (WIP)**]() · [**Changelog**](CHANGELOG.md)
 
 ![screenshot](assets/screenshot.png)
 
@@ -117,7 +117,7 @@ x{streak} and they're still queueing
 
 ## Pro License
 
-After purchasing at [nebula.gg](https://nebula.gg), you'll receive a license key. Enter it in the **Pro** tab inside the app to unlock all features and remove the match-end promotion.
+After purchasing at [nebula.best](https://nebula.best), you'll receive a license key. Enter it in the **Pro** tab inside the app to unlock all features and remove the match-end promotion.
 
 Keys are tied to your machine. If you need to transfer to a new PC, contact support.
 
@@ -155,5 +155,5 @@ Source available — see [LICENSE](LICENSE). Free to use personally. Redistribut
 ---
 
 <div align="center">
-<sub>Built with ✦ by <a href="https://nebula.gg">nebula.gg</a></sub>
+<sub>Built with ✦ by <a href="https://nebula.best">nebula.best</a></sub>
 </div>
