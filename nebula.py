@@ -34,7 +34,7 @@ import os, sys, json, time, math, random, threading, datetime, logging, glob
 from flask import Flask, request, jsonify, Response
 
 VERSION = "3.0.0"
-UPDATE_URL = "https://raw.githubusercontent.com/yourusername/nebula-killsay/main/version.txt"
+UPDATE_URL = "https://raw.githubusercontent.com/AsutoroRepo/nebula-killsay/main/version.txt"
 
 # -- Win32 --------------------------------------------------------------------
 try:
