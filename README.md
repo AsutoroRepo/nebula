@@ -6,12 +6,12 @@
 
 **Automatic CS2 kill message automation. Zero effort. Maximum impact.**
 
-[![Version](https://img.shields.io/badge/version-3.0.0-A78BFA?style=flat-square&labelColor=0C0D16)](https://github.com/yourusername/nebula-killsay/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows-7DD3FC?style=flat-square&labelColor=0C0D16)](https://github.com/yourusername/nebula-killsay/releases)
+[![Version](https://img.shields.io/badge/version-3.0.0-A78BFA?style=flat-square&labelColor=0C0D16)](https://github.com/yourusername/nebula/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-7DD3FC?style=flat-square&labelColor=0C0D16)](https://github.com/yourusername/nebula/releases)
 [![CS2](https://img.shields.io/badge/game-CS2-F87171?style=flat-square&labelColor=0C0D16)](https://www.counter-strike.net/)
 [![License](https://img.shields.io/badge/license-Source%20Available-FBBF24?style=flat-square&labelColor=0C0D16)](LICENSE)
 
-[**Download**](https://github.com/yourusername/nebula-killsay/releases/latest) · [**Get Pro**]([https://nebula-killsay.lovable.app]) · [**Discord (WIP)**]() · [**Changelog**](CHANGELOG.md)
+[**Download**](https://github.com/yourusername/nebula/releases/latest) · [**Get Pro**](https://nebula-killsay.lovable.app) · [**Discord (WIP)**]() · [**Changelog**](CHANGELOG.md)
 
 ![screenshot](assets/screenshot.png)
 
@@ -31,7 +31,7 @@ Nebula Killsay hooks into CS2's **Game State Integration (GSI)** — Valve's off
 |---|:---:|:---:|
 | Custom kill messages | ✓ | ✓ |
 | Per-weapon messages (knife, AWP, pistol, grenade, Zeus) | ✓ | ✓ |
-| Kill streak detection & escalating messages | ✓ | ✓ |
+| Kill streak detection & escalatng messages | ✓ | ✓ |
 | Death & round win/loss messages | ✓ | ✓ |
 | Message variables `{weapon}` `{streak}` `{kills}` `{map}` `{hs}` | ✓ | ✓ |
 | Message randomiser (comma-sep or multi-line) | ✓ | ✓ |
@@ -46,7 +46,7 @@ Nebula Killsay hooks into CS2's **Game State Integration (GSI)** — Valve's off
 | Message pack import / export | ✗ | ✓ |
 | Match-end promotion message | shown | removed |
 
-> **[Get Pro →]([https://nebula.best](https://nebula-killsay.lovable.app))** — one-time purchase, no subscription.
+> **[Get Pro →](https://nebula-killsay.lovable.app)** — one-time purchase, no subscription.
 
 ---
 
@@ -54,7 +54,7 @@ Nebula Killsay hooks into CS2's **Game State Integration (GSI)** — Valve's off
 
 ### Option A — Download the release (recommended)
 
-1. Go to [**Releases**](https://github.com/yourusername/nebula-killsay/releases/latest) and download `Nebula-Killsay.exe`
+1. Go to [**Releases**](https://github.com/yourusername/nebula/releases/latest) and download `Nebula.exe`
 2. Run it — no install needed, single executable
 3. Follow the **Setup** tab inside the app to configure CS2
 
@@ -63,8 +63,8 @@ Nebula Killsay hooks into CS2's **Game State Integration (GSI)** — Valve's off
 **Requirements:** Python 3.10+, Windows 10/11
 
 ```bash
-git clone https://github.com/yourusername/nebula-killsay.git
-cd nebula-killsay
+git clone https://github.com/AsutoroRepo/nebula.git
+cd nebula
 pip install -r requirements.txt
 python nebula.py
 ```
@@ -76,7 +76,7 @@ pip install pyinstaller
 build.bat
 ```
 
-The exe will appear in `dist/Nebula-Killsay.exe`.
+The exe will appear in `dist/Nebula.exe`.
 
 ---
 
