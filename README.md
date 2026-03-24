@@ -46,7 +46,7 @@ Nebula Killsay hooks into CS2's **Game State Integration (GSI)** — Valve's off
 | Message pack import / export | ✗ | ✓ |
 | Match-end promotion message | shown | removed |
 
-> **[Get Pro →](https://nebula.gg)** — one-time purchase, no subscription.
+> **[Get Pro →](https://nebula.best)** — one-time purchase, no subscription.
 
 ---
 
